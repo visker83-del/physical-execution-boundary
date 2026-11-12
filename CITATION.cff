@@ -24,5 +24,7 @@ preferred-citation:
   version: "1.0"
   doi: "10.5281/zenodo.24163561"
   url: "https://zenodo.org/records/24163561"
+  institution:
+    name: "Zenodo"
   publisher:
     name: "Zenodo"
