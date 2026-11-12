@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite the white paper using the reference below."
+title: "Hardware Enforcement at the Physical Execution Boundary"
+authors:
+  - family-names: "Baek"
+    given-names: "Jungsoo"
+    affiliation: "Certum Systems"
+    orcid: "https://orcid.org/0009-0004-6648-0809"
+version: "1.0"
+date-released: 2026-11-12
+doi: "10.5281/zenodo.24163561"
+url: "https://zenodo.org/records/24163561"
+license: CC-BY-4.0
+preferred-citation:
+  type: report
+  title: "Hardware Enforcement at the Physical Execution Boundary"
+  authors:
+    - family-names: "Baek"
+      given-names: "Jungsoo"
+      affiliation: "Certum Systems"
+      orcid: "https://orcid.org/0009-0004-6648-0809"
+  year: 2026
+  month: 11
+  version: "1.0"
+  doi: "10.5281/zenodo.24163561"
+  url: "https://zenodo.org/records/24163561"
+  publisher:
+    name: "Zenodo"
